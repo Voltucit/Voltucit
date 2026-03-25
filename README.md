@@ -3,7 +3,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=Life%20Is%20Game&descSize=25&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Life%20Is%20Game&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=25&descAlign=50&descAlignY=50&textBg=false&theme=dark"  />
 </div>
 
 ###
@@ -50,11 +50,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Voltucit/Voltucit/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Voltucit/Voltucit/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Voltucit/Voltucit/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Voltucit/Voltucit/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -65,7 +61,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=%E4%B8%8D%E5%86%8D%E7%BE%A1%E6%85%95%E4%BB%96%E4%BA%BA&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=%E4%B8%8D%E5%86%8D%E7%BE%A1%E6%85%95%E4%BB%96%E4%BA%BA&fontSize=30&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=dark"  />
 </div>
 
 ###
