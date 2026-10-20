@@ -6,11 +6,6 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Life%20Is%20Game&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=25&descAlign=50&descAlignY=50&textBg=false&theme=dark"  />
 </div>
 
-###
-
-<div align="center">
-  <img height="200" src="https://picui.ogmua.cn/s1/2026/03/25/69c3961dc2224.webp"  />
-</div>
 
 ###
 
